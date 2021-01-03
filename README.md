@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# About Me
+I'm a Javascript beginners who makes random javascript projects!
+
+## Check out some of my projects
+- [Time Down](https://github.com/DecemberKaushik/year-progress-js)
+This project shows the progress of a year in percentage.
+- [Covus](https://github.com/DecemberKaushik/covus)
+This project shows the percentage and data of people recovered from COVID-19.
+
 <!--
 **DecemberKaushik/DecemberKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
